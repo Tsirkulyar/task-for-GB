@@ -1,0 +1,268 @@
+.container{
+    width: 1600px;
+	margin: 0 auto;
+}
+.top{
+    padding: 75px;
+	display: flex;
+    left: 0%;
+right: 0%;
+top: 0%;
+bottom: 97.44%;
+
+background: #222222;
+}
+.top_l{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 230px;
+    padding-top: 18px;
+    gap: 33px;
+}
+.top_r{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 18px;
+    padding-left: 859px;
+    gap: 33px;
+}
+.img{
+    right: 82.81%;
+top: 0.62%;
+bottom: 98.09%;
+width: 44px;
+height: 38px;
+}
+.tipo_LOGO{
+    padding-top: 290px;
+    padding-bottom: 381px;
+    padding-left: 91.42px;
+    left: 55.75%;
+right: 20.69%;
+top: 12.48%;
+bottom: 84.34%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+background: #F1E4E6;
+color: #222222;
+}
+.LOGO{
+    width: 800px;
+    height: 499px;
+    background: #F1E4E6;
+}
+.big{
+    display: flex;
+    justify-content: center;
+}
+.foto{
+    width: 764px;
+    display: flex;
+}
+.tipo_LOGO{
+    left: 55.75%;
+right: 20.69%;
+top: 12.48%;
+bottom: 84.34%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+
+color: #222222;
+}
+.tipo_LOGOt{
+    width: 377px;
+    height: 93px;
+    left: 55.75%;
+right: 20.69%;
+top: 12.48%;
+bottom: 84.34%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 58px;
+
+color: #222222;
+}
+.bord{
+    width: 12px;
+    height: 92px;
+    background: #F16D7F;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+h2{
+    width: 377px;
+    height: 93px;
+
+}
+.muzhik{
+    background-color: #F1E4E6;
+}
+/* blokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblok*/
+.item{
+    display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 65px;
+}
+
+.item1{
+    width: 360px;
+    height: 260px;
+    background: url(/img/Layer\ 43.svg);
+    display: flex;
+    justify-content: center;
+}
+.item2{
+    width: 360px;
+    height: 260px;
+    background: url(/img/Rectangle\ 30.svg);
+}
+.item3{
+    width: 360px;
+    height: 260px;
+    background: url(/img/Rectangle\ 30\ \(1\).svg);
+    display: flex;
+    justify-content: center;
+}
+.item4{
+    width: 1140px;
+    height: 180px;
+    background: url(/img/photoL.svg);
+    display: flex;
+    justify-content: center;
+    left: 230px;
+    top: 1194px;
+
+}
+.item4spez{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.men{
+    left: 70.81%;
+right: 22%;
+top: 34.5%;
+bottom: 63.79%;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.for{
+    left: 20.81%;
+right: 69.56%;
+top: 34.5%;
+bottom: 63.79%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+padding-left: 103px;
+padding-right: 103px;
+
+
+color: #FFFFFF;
+}
+
+
+/*blokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblokblok*/
+.cardstart{
+    display: flex;
+    justify-content: center;
+}
+.cardsflex{
+    display: flex;
+    justify-content: center;
+}
+.hcards{
+    display: flex;
+    justify-content: center;
+    left: 44.4%;
+right: 44.23%;
+top: 50.26%;
+bottom: 48.51%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+color: #222222;
+}
+.pcards{
+    padding-top: 6px;
+    left: 39.44%;
+right: 39.56%;
+top: 51.69%;
+bottom: 47.73%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #9F9F9F;
+}
+.cards{
+    display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+    gap: 30px;
+}
+.card{
+    width: 360px;
+    height: 581px;
+    left: 14.38%;
+right: 63.12%;
+top: 53.91%;
+bottom: 26.22%;
+
+background: #F8F8F8;
+}
+.layer{
+    width: 360px;
+    height: 420px;
+    background: url(/img/Rectangle\ 15\ copy\ \(1\).svg);
+}
+
+.wrapper{
+    padding-bottom: 30px;
+}
+.cardstarth{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 6px;
+}
+.cardstartp{
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+}
+.pcards{
+    padding-top: 6px;
+}
+.hcards{
+    padding-bottom: 6px;
+}
