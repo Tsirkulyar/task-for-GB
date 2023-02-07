@@ -15,9 +15,7 @@ p {
     max-width: 1140px;
     margin: 0 auto;
 }
-.panel:hover{
 
-}
 .container-2 {
     max-width: 1600px;
     margin: 0 auto;
@@ -112,8 +110,8 @@ color: #000000;
 }
 .menu_li{
     padding-left: 45.21px;
-    padding-top: 11px;
-    padding-bottom: 11px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-family: 'Lato';
 font-style: normal;
 font-weight: 400;
@@ -190,17 +188,29 @@ li {
 
 .itemmm {
     width: 1140px;
-    background: rgba(33, 22, 22, 0.7);
+    /* background: rgba(33, 22, 22, 0.7);
     width: 100%;
-    height: 100%;
+    height: 100%; */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     cursor: pointer;
 }
+.itemmm1,
+.itemmm2,
+.itemmm3{
+    background: rgba(33, 22, 22, 0.7);
+    width: 360px;
+    height: 260px;
+}
+
 
 .item1 {
+        background: rgba(33, 22, 22, 0.7);
+    width: 100%;
+    height: 100%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -211,6 +221,10 @@ li {
 }
 
 .item2 {
+        background: rgba(33, 22, 22, 0.7);
+    width: 100%;
+    height: 100%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -221,6 +235,10 @@ li {
 }
 
 .item3 {
+        background: rgba(33, 22, 22, 0.7);
+    width: 100%;
+    height: 100%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -297,6 +315,36 @@ li {
     width: 360px;
     height: 420px;
     background: url(/img/Rectangle\ 15\ copy\ \(1\).svg);
+    /* background: rgba(58, 56, 56, 0.86); */
+    /* position: relative; */
+}
+
+.photocard1{
+    background: rgba(58, 56, 56, 0.86);
+    filter: brightness(40%);
+    position: relative;
+
+}
+.del{
+    display: none;
+}
+.vector3{
+    padding: 188px 110px 188px 111px;
+    position: absolute;
+}
+.vector4{
+    position: absolute;
+    padding: 199px 209px 196px 124px;
+}
+.cardp{
+    position: absolute;
+    padding: 202px 130px 200px 166px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color:#FFFFFF
 }
 
 .wrapper {
@@ -305,15 +353,11 @@ li {
 
 .cardstarth {
     padding-top: 96px;
-    /* display: flex;
-    justify-content: center; */
     padding-bottom: 6px;
 }
 
 .cardstartp {
     padding-top: 6px;
-    /* display: flex;
-    justify-content: center; */
 }
 
 .pcardss {
