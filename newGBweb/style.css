@@ -385,6 +385,17 @@ h3,
     height: 19px;
 }
 
+.block{
+    border: 1px solid #000000;
+    Width: 360px;
+    Height: 581px;
+}
+.btndel1{
+    width: 90px;
+    height: 50px;
+    margin: auto;
+}
+
 @media(max-width: 768px) {
     .container-2 {
         max-width: 768px;
@@ -508,13 +519,13 @@ h3,
         justify-content: center;
     }
 
-    .info {}
-
     .wrapper {
         display: flex;
         justify-content: center;
     }
 }
+
+
 
 @media(max-width: 375px) {
     .container-2 {
