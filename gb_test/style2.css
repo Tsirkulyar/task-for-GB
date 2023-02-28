@@ -1,0 +1,23 @@
+@media(max-width: 375px) {
+
+  .fon{
+    position: absolute;
+    height: 798px;
+    left: 0px;
+    right: -1225px;
+    top: 0px;
+  }
+  .container{
+    width: 375px;
+  }
+  .gap{
+    display: none;
+  }
+  .deleteFot{
+    display: none;
+  }
+  .top{
+    display: flex;
+    justify-content: start;
+  }
+}
